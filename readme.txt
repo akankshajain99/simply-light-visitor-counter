@@ -38,7 +38,7 @@ No. The plugin does not collect or store personal data. It only uses a basic coo
 It may work with most caching plugins, but aggressive caching may affect accuracy.
 
 == Privacy ==
-This plugin sets a single essential cookie (`svc_visited`) to prevent counting the same visitor multiple times.  
+This plugin sets a single essential cookie (`slvc_visited`) to prevent counting the same visitor multiple times.  
 No personal data is collected or stored.
 
 == Screenshots ==
@@ -51,4 +51,5 @@ No personal data is collected or stored.
 == Upgrade Notice ==
 = 1.0.0 =
 Initial release.
+
 
