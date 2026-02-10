@@ -2,7 +2,7 @@
 Contributors: akankshajain
 Tags: visitor counter, visitors, statistics, counter
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.9
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -51,3 +51,4 @@ No personal data is collected or stored.
 == Upgrade Notice ==
 = 1.0.0 =
 Initial release.
+
