@@ -12,7 +12,7 @@ A simple and lightweight visitor counter plugin for WordPress.
 1. Download the plugin
 2. Upload to `/wp-content/plugins/`
 3. Activate from the WordPress dashboard
-4. Uses shortcode [visitor_counter] to display visitor count
+4. Use shortcode [visitor_counter] to display visitor count
 
 ## Author
 Akanksha Jain
