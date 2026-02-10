@@ -1,4 +1,4 @@
-=== Simple Visitor Counter ===
+=== Simply Light Visitor Counter ===
 Contributors: akankshajain
 Tags: visitor counter, visitors, statistics, counter
 Requires at least: 5.0
