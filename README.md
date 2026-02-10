@@ -1,4 +1,4 @@
-# Simple Visitor Counter
+# Simply Light Visitor Counter
 
 A simple and lightweight visitor counter plugin for WordPress.
 
@@ -11,7 +11,7 @@ A simple and lightweight visitor counter plugin for WordPress.
 ## Installation
 1. Download the plugin
 2. Upload to `/wp-content/plugins/`
-3. Activate from WordPress dashboard
+3. Activate from the WordPress dashboard
 4. Uses shortcode [visitor_counter] to display visitor count
 
 ## Author
